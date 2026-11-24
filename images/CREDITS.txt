@@ -1,0 +1,27 @@
+Photographs used on this site (downloaded into the repo).
+
+All three photographs are of the Gold Coast Broadwater, Queensland, Australia.
+Photographer: Kgbo (Wikimedia Commons user).
+Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+1. images/broadwater-main-beach.jpg
+   Source title: Main Beach and Surfers Paradise in the distance seen from The Broadwater, Queensland, 2020
+   https://commons.wikimedia.org/wiki/File:Main_Beach_and_Surfers_Paradise_in_the_distance_seen_from_The_Broadwater,_Queensland,_2020.jpg
+   Used on the homepage hero. Resized and compressed for the web; no other changes.
+
+2. images/broadwater-biggera.jpg
+   Source title: The Broadwater, Biggera Waters, Queensland
+   https://commons.wikimedia.org/wiki/File:The_Broadwater,_Biggera_Waters,_Queensland.jpg
+   Used on the homepage about section and the about page. Resized and compressed for the web; no other changes.
+
+3. images/broadwater-foreshore.jpg
+   Source title: The Broadwater foreshore at Biggera Waters, Queensland
+   https://commons.wikimedia.org/wiki/File:The_Broadwater_foreshore_at_Biggera_Waters,_Queensland.jpg
+   Used on the services page. Resized and compressed for the web; no other changes.
+
+4. images/og.jpg
+   A 1200×630 social-preview crop of photograph (1), with a dark scrim and typography overlaid.
+   The underlying photograph remains Kgbo / CC BY-SA 4.0. The typographic overlay is original to this site.
+
+Please keep attribution on the pages and in this file if the photographs are retained or adapted.

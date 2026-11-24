@@ -1,0 +1,26 @@
+/* Self-hosted fonts. Fraunces (Undercase Type) and Source Sans 3 (Adobe), SIL OFL 1.1.
+   See fonts/README.md. */
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/Fraunces-normal-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/Fraunces-italic-600.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("../fonts/SourceSans3-normal-400.woff2") format("woff2");
+}

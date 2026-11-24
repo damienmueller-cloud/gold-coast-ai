@@ -1,0 +1,6 @@
+Broadwater AI Co.
+
+This is a WORKING NAME / placeholder.
+To rename the company, find-replace the exact string "Broadwater AI Co." across the repo
+(HTML, CSS comments, JS, README, this file, and js/contact.js).
+Also update --site-name in css/styles.css if you use it.
