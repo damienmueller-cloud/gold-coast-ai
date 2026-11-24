@@ -1,13 +1,4 @@
-/* ============================================================
-   SITE_NAME (placeholder — find-replace): Broadwater AI Co.
-   Palette and type are original to this site. Tone (warm, local,
-   practical, plain-speaking) takes cues from Gold Coast businesses
-   Damien knows, without copying their logos, names or brand assets.
-   ============================================================ */
-
 :root {
-  --site-name: "Broadwater AI Co."; /* placeholder working name */
-
   --sand: #f3ede3;
   --paper: #fffbf5;
   --ink: #241c16;

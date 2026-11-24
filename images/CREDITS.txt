@@ -22,6 +22,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 4. images/og.jpg
    A 1200×630 social-preview crop of photograph (1), with a dark scrim and typography overlaid.
-   The underlying photograph remains Kgbo / CC BY-SA 4.0. The typographic overlay is original to this site.
+   The underlying photograph remains Kgbo / CC BY-SA 4.0. This adaptation (crop, scrim and typography) is licensed under CC BY-SA 4.0.
 
 Please keep attribution on the pages and in this file if the photographs are retained or adapted.

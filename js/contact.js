@@ -1,6 +1,5 @@
-/* SITE_NAME (placeholder — find-replace): Broadwater AI Co. */
 (function () {
-  var SITE_NAME = "Broadwater AI Co.";
+  var SITE_NAME = "Broadwater AI";
   var EMAIL = "damienmueller@gmail.com";
   var form = document.getElementById("contact-form");
   if (!form) return;
