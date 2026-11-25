@@ -1,9 +1,9 @@
 # Broadwater AI
 
-> Practical AI implementation, automation and fractional advisory, based on the Gold Coast, Queensland, Australia.
+> Practical AI implementation, automation and fractional advisory, a Gold Coast, Queensland service-area business, Australia and Asia-Pacific (remote). No street address.
 
 - Site: https://damienmueller-cloud.github.io/gold-coast-ai/
-- Founder: Damien Mueller
+- Operated by: Damien Mueller, a sole trader (display name only; not a registered company or registered business name)
 - Profile: https://damienmueller-cloud.github.io/damien-mueller/
 - Email: damienmueller@gmail.com
 - Phone: +61 421 277 189
@@ -11,6 +11,6 @@
 - Area served: Australia and Asia-Pacific (remote)
 - Rate: from A$600 per day (AUD)
 
-There is no walk-in office listed. Work is taken on month to month.
+Service-area business with no walk-in office or street address. Work is taken on month to month.
 
 Pages: / (home), /services.html, /about.html, /contact.html, /privacy.html
